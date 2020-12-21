@@ -1,3 +1,1 @@
 # practice-git
-
-Hello
